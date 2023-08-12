@@ -1,5 +1,7 @@
 **InventoryFilter**
 ----
+**This mod is obsolete. It never worked correctly and there have been significant changes to the UI since I last updated the code.**
+
 A library mod for [Phantom Brigade (Alpha)](https://braceyourselfgames.com/phantom-brigade/) that brings over the concept of filtering by categories from the mobile base workshop screen to the mobile base inventory screen.
 
 It is compatible with game version **0.20.0**. All library mods are fragile and susceptible to breakage whenever a new version is released.
